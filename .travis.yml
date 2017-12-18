@@ -1,3 +1,0 @@
-language: java
-install: ./clone-repos.sh
-script: "mvn site"
