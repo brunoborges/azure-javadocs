@@ -1,7 +1,0 @@
-com.microsoft.azure.serverless.functions
-com.microsoft.azure.serverless.functions.annotation
-com.microsoft.azure.webjobs.script
-com.microsoft.azure.webjobs.script.binding
-com.microsoft.azure.webjobs.script.broker
-com.microsoft.azure.webjobs.script.handler
-com.microsoft.azure.webjobs.script.rpc.messages
