@@ -56,7 +56,7 @@ com.microsoft.azure.servicebus
 com.microsoft.azure.servicebus.amqp
 com.microsoft.azure.servicebus.primitives
 com.microsoft.azure.servicebus.rules
-com.microsoft.azure.sevicebus.security
+com.microsoft.azure.servicebus.security
 com.microsoft.azure.webjobs.script
 com.microsoft.azure.webjobs.script.binding
 com.microsoft.azure.webjobs.script.broker
