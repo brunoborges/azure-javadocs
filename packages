@@ -67,6 +67,7 @@ com.microsoft.azure.sdk.iot.service.transport.http
 samples.com.microsoft.azure.sdk.iot.service.sdk
 com.microsoft.azure.sdk.iot.common
 com.microsoft.azure.sdk.iot.common.iothubservices
+com.microsoft.azure.sdk.iot.provisioning.security.hsm
 com.microsoft.azure.sdk.iot.provisioning.device
 com.microsoft.azure.sdk.iot.provisioning.device.internal
 com.microsoft.azure.sdk.iot.provisioning.device.internal.contract
@@ -81,5 +82,4 @@ com.microsoft.azure.sdk.iot.provisioning.service.auth
 com.microsoft.azure.sdk.iot.provisioning.service.configs
 com.microsoft.azure.sdk.iot.provisioning.service.contract
 com.microsoft.azure.sdk.iot.provisioning.service.exceptions
-com.microsoft.azure.sdk.iot.provisioning.security.hsm
 tools.com.microsoft.azure.sdk.iot
