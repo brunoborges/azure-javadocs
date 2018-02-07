@@ -8,6 +8,10 @@ com.microsoft.azure.datalake.store
 com.microsoft.azure.datalake.store.acl
 com.microsoft.azure.datalake.store.oauth2
 com.microsoft.azure.datalake.store.retrypolicies
+com.microsoft.azure.eventhubs
+com.microsoft.azure.eventhubs.amqp
+com.microsoft.azure.eventhubs.extensions.appender
+com.microsoft.azure.eventprocessorhost
 com.microsoft.azure.keyvault
 com.microsoft.azure.keyvault.authentication
 com.microsoft.azure.keyvault.core
