@@ -78,7 +78,9 @@ com.microsoft.azure.servicebus.security
 com.microsoft.azure.webjobs.script
 com.microsoft.azure.webjobs.script.binding
 com.microsoft.azure.webjobs.script.broker
+com.microsoft.azure.webjobs.script.description
 com.microsoft.azure.webjobs.script.handler
+com.microsoft.azure.webjobs.script.reflect
 com.microsoft.azure.webjobs.script.rpc.messages
 samples.com.microsoft.azure.sdk.iot
 samples.com.microsoft.azure.sdk.iot.service.sdk
