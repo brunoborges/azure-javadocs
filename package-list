@@ -26,6 +26,7 @@ com.microsoft.azure.management.apimanagement
 com.microsoft.azure.management.appservice
 com.microsoft.azure.management.batch
 com.microsoft.azure.management.batchai
+com.microsoft.azure.management.batchai.model
 com.microsoft.azure.management.billing
 com.microsoft.azure.management.cdn
 com.microsoft.azure.management.cognitiveservices
