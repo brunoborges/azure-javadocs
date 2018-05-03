@@ -17,6 +17,7 @@ com.microsoft.azure.keyvault.core
 com.microsoft.azure.keyvault.cryptography
 com.microsoft.azure.keyvault.cryptography.algorithms
 com.microsoft.azure.keyvault.extensions
+com.microsoft.azure.keyvault.messagesecurity
 com.microsoft.azure.keyvault.models
 com.microsoft.azure.keyvault.models.custom
 com.microsoft.azure.keyvault.requests
